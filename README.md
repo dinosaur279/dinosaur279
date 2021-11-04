@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Lê Thanh Phong 
-I am currently a third-year student majoring in data science at Industrial University of Ho Chi Minh City
+I'm currently a third-year student majoring in data science at Industrial University of Ho Chi Minh City
 
 <!--
 **dinosaur279/dinosaur279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
