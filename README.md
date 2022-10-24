@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Lê Thanh Phong 
-I'm currently a third-year student majoring in Data Science at Industrial University of Ho Chi Minh City.
+I'm currently a final-year student majoring in Data Science at Industrial University of Ho Chi Minh City.
 
 - 📫 How to reach me: thanhphong27092001@gmail.com
 
